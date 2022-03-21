@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F9E4AA&height=250&section=header&text=Eunyeol%20Nam&&fontColor=484848&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20💻&descAlignY=60&descAlign=67)
+
 
 # Hi there 👋
 
