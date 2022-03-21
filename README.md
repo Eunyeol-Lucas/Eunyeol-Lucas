@@ -13,7 +13,7 @@ I'm constantly struggling to improve the user experience 🤔 <br />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=flat&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&style=flat&logo=redux&logoColor=white) ![styled-components](https://img.shields.io/badge/-Styledcomponents-DB7093?&style=flat&logo=Styledcomponents&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&style=flat&logo=redux&logoColor=white) ![styled-Components](https://img.shields.io/badge/-Styledcomponents-DB7093?&style=flat&logo=Styledcomponents&logoColor=white)
 
 ![python](https://img.shields.io/badge/-Python-3776AB?&style=flat&logo=Python&logoColor=white) ![flask](https://img.shields.io/badge/-flask-000000?&style=flat&logo=Flask&logoColor=white) ![git](https://img.shields.io/badge/-git-f05032?&style=flat&logo=git&logoColor=white)
 
