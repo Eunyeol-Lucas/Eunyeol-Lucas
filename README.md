@@ -11,11 +11,13 @@ I'm constantly struggling to improve the user experience 🤔 <br />
 
 ## 🕹 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=flat&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/-SASS-CC6699?&style=flat&logo=sass&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&style=flat&logo=redux&logoColor=white) ![styled-Components](https://img.shields.io/badge/-StyledComponents-DB7093?&style=flat&logo=StyledComponents&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat&logo=typescript&logoColor=white) ![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![NextJs](https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white&style=flat) ![Vue](https://img.shields.io/badge/-vue-4FC08D?logo=vue.js&logoColor=white&style=flat) 
 
-![python](https://img.shields.io/badge/-Python-3776AB?&style=flat&logo=Python&logoColor=white) ![flask](https://img.shields.io/badge/-flask-000000?&style=flat&logo=Flask&logoColor=white) ![git](https://img.shields.io/badge/-git-f05032?&style=flat&logo=git&logoColor=white)
+![python](https://img.shields.io/badge/-Python-3776AB?&style=flat&logo=Python&logoColor=white) ![flask](https://img.shields.io/badge/-flask-000000?&style=flat&logo=Flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?&style=flat&logo=Django&logoColor=white) 
+
+![git](https://img.shields.io/badge/-git-f05032?&style=flat&logo=git&logoColor=white) ![figma](https://img.shields.io/badge/-figma-F24E1E?&style=flat&logo=figma&logoColor=white)
 
 ## 📚 Experience
 
