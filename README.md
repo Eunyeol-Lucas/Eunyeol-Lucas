@@ -24,7 +24,7 @@ I'm constantly struggling to improve the user experience 🤔 <br />
 - **ELICE** - 엘리스 AI 서비스 기획 개발 트랙 2기 (Jun 2021 - Dec 2021)
 - **SSAFY** - Samsung Software Academy For Youth(삼성 청년 소프트웨어 아카데미) 7기 (Jan 2022 - now)
 
-## 📊 Stats
+## 📈 Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Eunyeol-Lucas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1017" alt="Github Stats" height="150px" />
