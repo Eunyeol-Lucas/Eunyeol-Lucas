@@ -15,7 +15,7 @@ I'm constantly struggling to improve the user experience 🤔 <br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat&logo=typescript&logoColor=white) ![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![NextJs](https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white&style=flat) ![Vue](https://img.shields.io/badge/-vue-4FC08D?logo=vue.js&logoColor=white&style=flat) 
 
-![python](https://img.shields.io/badge/-Python-3776AB?&style=flat&logo=Python&logoColor=white) ![flask](https://img.shields.io/badge/-flask-000000?&style=flat&logo=Flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?&style=flat&logo=Django&logoColor=white) 
+![python](https://img.shields.io/badge/-Python-3776AB?&style=flat&logo=Python&logoColor=white) 
 
 ![git](https://img.shields.io/badge/-git-f05032?&style=flat&logo=git&logoColor=white) ![figma](https://img.shields.io/badge/-figma-F24E1E?&style=flat&logo=figma&logoColor=white)
 
