@@ -13,7 +13,8 @@ I'm constantly struggling to improve the user experience 🤔 <br />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=flat&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/-SASS-CC6699?&style=flat&logo=sass&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=flat&logo=typescript&logoColor=white) <br />
+
 ![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![NextJs](https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white&style=flat) ![Vue](https://img.shields.io/badge/-vue-4FC08D?logo=vue.js&logoColor=white&style=flat) 
 
 ![python](https://img.shields.io/badge/-Python-3776AB?&style=flat&logo=Python&logoColor=white) 
