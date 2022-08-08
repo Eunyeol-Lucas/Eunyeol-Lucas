@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ney9083@gmail.com)
 
 I'm Eunyeol Nam 🧑🏻‍💻  <br />
-I'm improving my web programming skill 🔥 <br />
+I'm improving Web programming skill 🔥 <br />
 I'm constantly struggling to improve the user experience 🤔 <br />
 
 ## 🕹 Tech Stack
