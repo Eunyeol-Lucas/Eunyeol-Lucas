@@ -24,7 +24,7 @@ I'm constantly struggling to improve the user experience 🤔 <br />
 ## 📚 Experience
 
 - **ELICE** - 엘리스 AI 서비스 기획 개발 트랙 2기 (Jun 2021 - Dec 2021)
-- **SSAFY** - Samsung Software Academy For Youth(삼성 청년 소프트웨어 아카데미) 7기 (Jan 2022 - now)
+- **SSAFY** - Samsung Software Academy For Youth(삼성 청년 소프트웨어 아카데미) 7기 (Jan 2022 - Dec 2022)
 
 ## 📈 Stats
 
